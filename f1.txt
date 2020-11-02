@@ -1,7 +1,7 @@
 this is file 1 tran
 today change
 2112020 changed
-<<<<<<< HEAD
+
 
 
 changed in branch 1
@@ -10,8 +10,11 @@ changed in branch 1
 rizwan in branch 2
 
 irfan in branch 3
-=======
+
 again 
 br1 
 no we branching
->>>>>>> br1
+
+
+now we branch2
+
